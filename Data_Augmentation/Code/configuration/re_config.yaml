@@ -1,0 +1,10 @@
+#Random Erasing configuration
+
+p : 0.5
+sl : 0.02
+sh : 0.4
+r1 : 0.3
+value : "Z"
+
+
+

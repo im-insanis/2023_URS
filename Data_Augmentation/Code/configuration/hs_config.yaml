@@ -1,0 +1,6 @@
+#Hide-and-Seek configuration
+p : 0.5
+grid_ratio : 0.25
+patch_p : 0.5
+value : "Z"
+

@@ -1,0 +1,2 @@
+python3 tensorboard.exe --logdir experiment_results --port 6008
+
